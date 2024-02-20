@@ -1,0 +1,92 @@
+/*CSS STLYING */
+  
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header 
+{
+    background-color: skyblue;
+    color: black;
+    padding: 1px;
+    text-align: center;
+    text-shadow: 0px 0px 10px rgba(225, 5, 45, 0.923);
+    font-style: italic;
+
+            font-family: "Yellowtail", cursive;
+            font-weight: 400;
+            font-style: normal;
+          }
+                  
+
+main 
+{
+    padding: 10px;
+    text-align: center;
+}
+
+section 
+{
+    
+    font-style: initial;
+    background-color: skyblue;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 
+{
+    font-family: 'Arial', sans-serif;
+    color: red;
+    text-align: center;
+    font-style: oblique;
+}
+
+.lyrics 
+{
+    font-size: 18px;
+    text-align: center;
+    color: red;
+    text-shadow: 0 0 5px white;
+
+        font-family: "Protest Revolution", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        background-image: url( 'R.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding:20px;
+      }
+
+    #loud{ 
+            font-size: 35px;
+                font-family: "Protest Guerrilla", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+              }
+              
+    
+      
+.like{
+    font-size: 35px;
+        font-family: "Barriecito", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+
+footer 
+{
+    background-color: skyblue;
+    color: black;
+    padding: 10px 0;
+    text-align: center;
+}
